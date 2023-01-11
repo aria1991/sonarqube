@@ -14,7 +14,7 @@
     "gatsby-plugin-typography": "2.3.25",
     "gatsby-remark-custom-blocks": "2.1.27",
     "gatsby-source-filesystem": "2.1.57",
-    "gatsby-transformer-remark": "2.6.59",
+    "gatsby-transformer-remark": "5.25.1",
     "hast-util-select": "4.0.0",
     "lodash": "4.17.21",
     "lunr": "2.3.9",
